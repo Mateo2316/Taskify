@@ -1,7 +1,10 @@
 document.getElementById('addTaskBtn').addEventListener('click', () => {
     const input = document.getElementById('taskInput');
     const taskText = input.value.trim();
-    if (taskText === '') return;
+    if (!taskText) {
+    alert('Por favor escribe una tarea válida.');
+    return;
+}
     
     const li = document.createElement('li');
     li.textContent = taskText;
