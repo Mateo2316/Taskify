@@ -39,10 +39,4 @@ taskify/
 
 Este proyecto tiene fines educativos y está diseñado para ayudar a entender los conceptos fundamentales del desarrollo web antes de avanzar hacia herramientas más avanzadas.
 
-## 👨‍💻 Autor
-
-- [Tu Nombre o Usuario de GitHub]
-
----
-
 ¡Gracias por visitar el proyecto! Siéntete libre de colaborar o compartir ideas para mejorarlo.
